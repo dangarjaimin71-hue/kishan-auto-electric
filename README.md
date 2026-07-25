@@ -52,9 +52,9 @@
 
     <!-- Hero Section -->
     <section class="hero">
-        <h1>કિશન ઓટો ઈલેક્ટ્રિક એન્ડ બેટરીઝ</h1>
-        <p>ટ્રેક્ટર, ફોર વહીલર અને તમામ વાહનોના વાયરિંગ, હોન, અલ્ટરનેટર અને બેટરીનું વિશ્વસનીય કામ</p>
-        <a href="https://wa.me/91XXXXXXXXXX" class="btn">💬 WhatsApp પર સંપર્ક કરો</a>
+        <h1>કિશાન ઓટો ઈલેક્ટ્રિક એન્ડ બેટરીઝ</h1>
+        <p>ટ્રેક્ટર, ફોર વહીલર અને તમામ વાહનોના વાયરિંગ, હોન,સેલ્ફ,અલ્ટરનેટર અને બેટરીનું વિશ્વસનીય કામ</p>
+        <a href="https://wa.me/919974381865" class="btn">💬 WhatsApp પર સંપર્ક કરો</a>
     </section>
 
     <div class="container">
@@ -94,10 +94,10 @@
         <h2 class="section-title">અમારો સંપર્ક કરો</h2>
         <div class="contact-box">
             <p><strong>📍 સરનામું:</strong> લાલપુર, જામનગર (ગુજરાત)</p>
-            <p><strong>📞 ફોન નંબર:</strong> +91 XXXXXXXXXX</p>
+            <p><strong>📞 ફોન નંબર:</strong> +91 9974381865</p>
             <p><strong>⏰ સમય:</strong> સવારે ૮:૦૦ થી સાંજે ૮:૦૦ સુધી</p>
             <br>
-            <a href="tel:+91XXXXXXXXXX" class="btn" style="background:#1e293b;">📞 સીધો કોલ કરો</a>
+            <a href="tel:+919974381865" class="btn" style="background:#1e293b;">📞 સીધો કોલ કરો</a>
         </div>
     </div>
 
