@@ -89,6 +89,9 @@
                 <div class="brand-item">LIVFAST</div>
             </div>
         </div>
+<center>
+    <img src="img_1211.png" alt="કિશન ઓટો ઈલેક્ટ્રિક વર્કશોપ" style="max-width:90%; border-radius:10px; margin: 20px 0;">
+</center>
 
         <!-- Contact Section -->
         <h2 class="section-title">અમારો સંપર્ક કરો</h2>
